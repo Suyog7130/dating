@@ -1,8 +1,8 @@
 {
-  "name": "krit",
-  "version": "0.1.0",
-  "description": "A configurable personal website template for minimalists.",
-  "homepage": "./",
+  "name": "dating",
+  "version": "0.0.1",
+  "description": "A Dating Profile Webpage.",
+  "homepage": "./build/",
   "license": "Apache-2.0",
   "keywords": [
     "website",
@@ -10,9 +10,9 @@
     "web developer"
   ],
   "author": {
-    "name": "Fawad Ali",
-    "email": "m.fawaadali98@gmail.com",
-    "url": "https://github.com/9inpachi"
+    "name": "Suyog Garg",
+    "email": "",
+    "url": "https://suyoggarg.com"
   },
   "scripts": {
     "start": "react-scripts start",

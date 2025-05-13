@@ -2,7 +2,7 @@
   "name": "dating",
   "version": "0.0.1",
   "description": "A Dating Profile Webpage.",
-  "homepage": "./build/",
+  "homepage": "./",
   "license": "Apache-2.0",
   "keywords": [
     "website",
@@ -15,6 +15,7 @@
     "url": "https://suyoggarg.com"
   },
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
